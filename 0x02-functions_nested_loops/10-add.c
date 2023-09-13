@@ -6,11 +6,12 @@
  * @a: first input
  * @b: second input
  *
- * Return: sum of and b
+ * Return: sum of & b
 */
 
 int add(int a, int b)
 {
 	int sum = a + b;
+
 	return (sum);
 }
