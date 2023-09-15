@@ -2,7 +2,8 @@
 
 /**
  * print_diagonal - prints a diagonal line
- * @n: is number of times thr \ charecter
+ *
+ * @n: is number of times the \ charecter
  *	should be printed
 */
 
